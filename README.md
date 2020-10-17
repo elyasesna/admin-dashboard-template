@@ -1,5 +1,5 @@
 # admin-dashboard-template
 
-Basic admin dashboard template in HTML and CSS
+Basic RTL admin dashboard template in HTML and CSS (قالب فارسی)
 
 Please contribute to make it responsive :)
